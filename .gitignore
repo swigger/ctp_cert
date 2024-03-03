@@ -1,0 +1,9 @@
+Debug/
+Release/
+.vs/
+*.obj
+*.o
+*.exe
+*.user
+*.log
+!/crypto/uplink-x86_64.obj
